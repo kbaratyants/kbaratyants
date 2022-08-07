@@ -7,7 +7,7 @@ Front-end developer
 * 🌍  I'm based in Saint-Petersburg
 * 🖥️  See my portfolio at [kbaratyants](http://kbaratyants.github.io)
 * ✉️  You can contact me at [kbaratyants@gmail.com](mailto:kbaratyants@gmail.com)
-* 🚀  I'm currently working on [TamTam](https://tamtam.chat/) and [Cakeboost](http://cakeboost.com/)
+* 🚀  I'm currently working on [TamTam](https://tamtam.chat/)
 * 🧠  I'm learning Vue.js and [EndorphinJS](https://github.com/endorphinjs)
 
 ### Skills
