@@ -8,7 +8,7 @@ Front-end developer
 * 🖥️  See my portfolio at [kbaratyants.dev](http://kbaratyants.dev)
 * ✉️  You can contact me at [kbaratyants@gmail.com](mailto:kbaratyants@gmail.com)
 * 🚀  I'm currently working on [TamTam](https://tamtam.chat/)
-* 🧠  I'm learning Vue.js and [EndorphinJS](https://github.com/endorphinjs)
+* 🧠  I'm learning Svelte.js and [EndorphinJS](https://github.com/endorphinjs)
 
 ### Skills
 
